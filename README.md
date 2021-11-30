@@ -1,6 +1,6 @@
 ## LEGO-Robot-2D-plotter
 
-Application for a LEGO robot to implement a 2D-plotter. The plotter is able to draw two different shapes (a rectangle and a sailing ship) in different sizes selectable via a user interface. 
+**Application** for a **LEGO robot** to implement a **2D-plotter**. The plotter is able to draw two different shapes (a rectangle and a sailing ship) in different sizes selectable via a user interface. 
 The software runs on a **LEGO NXT Intelligent Brick** using the **LeJOS firmware version 0.9.1 beta**.
 
 **The general procedure is as follows:**
@@ -14,15 +14,15 @@ The software runs on a **LEGO NXT Intelligent Brick** using the **LeJOS firmware
 - The third motor moves the pen up and down (by coiling a rope on a reel). 
 
 **Three sensors are installed for calibration purposes:**
-- a touch sensor allows to determine when the motor driving the swivel arm is in its rightmost position. 
-- Another touch sensor detects if the pen reaches its maximum upper position. 
-- A light sensor enables the robot to find a black bar, which marks the start of the drawing area.
+- A **touch sensor** allows to determine when the motor driving the swivel arm is in its rightmost position. 
+- Another **touch sensor** detects if the pen reaches its maximum upper position. 
+- A **light sensor** enables the robot to find a black bar, which marks the start of the drawing area.
 
 
 **The program passes through the following phases:**
-- User interaction to choose shape and size
-- Calibration
-- Drawing the chosen shapes
+- **User interaction** to choose shape and size
+- **Calibration**
+- **Drawing** the chosen shapes
 
 **User interaction:**
 For interaction with the user of the robot, the LCD and the buttons of the NXT intelligent brick are used.
