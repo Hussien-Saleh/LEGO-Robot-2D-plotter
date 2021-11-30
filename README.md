@@ -1,6 +1,6 @@
 # LEGO-Robot-2D-plotter
 
-Application for a LEGO robot to implement a 2D-plotter. The plotter must be able to draw two different shapes (a rectangle and a sailing ship) in different sizes selectable via a user interface. 
+Application for a LEGO robot to implement a 2D-plotter. The plotter is able to draw two different shapes (a rectangle and a sailing ship) in different sizes selectable via a user interface. 
 The software runs on a LEGO NXT Intelligent Brick using the LeJOS firmware version 0.9.1 beta.
 
 The general procedure is as follows: 
