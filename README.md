@@ -59,6 +59,7 @@ For calculations, the mechanical constants of the robot are provided.
 - Light sensor threshold for detecting the black bar: ~500
 
 Conceptual design:
+
 Coordinates:
 Before drawing a shape, the motor angle of the real robot is abstracted into an xy-coordinate system that is used by the program.
 
