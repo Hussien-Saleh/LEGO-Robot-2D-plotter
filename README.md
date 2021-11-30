@@ -20,9 +20,9 @@ Three sensors are installed for calibration purposes:
 
 
 The program passes through the following phases:
-- Userinteraction(chooseshapeandsize) 
+- User interaction to choose shape and size
 - Calibration
-- Drawingthechosenshape
+- Drawing the chosen shapes
 
 User interaction:
 For interaction with the user of the robot, the LCD and the buttons of the NXT intelligent brick are used.
