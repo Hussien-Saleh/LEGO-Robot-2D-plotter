@@ -9,7 +9,7 @@ The software runs on a **LEGO NXT Intelligent Brick** using the **LeJOS firmware
 
 ### The robot:
 **The robot has three motors:** 
-- one motor drives the robot forward and backward.
+- One motor drives the robot forward and backward.
 - Another one moves the swivel arm, on which the pen is mounted, left and right. 
 - The third motor moves the pen up and down (by coiling a rope on a reel). 
 
