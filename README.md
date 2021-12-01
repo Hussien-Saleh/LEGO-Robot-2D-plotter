@@ -3,6 +3,8 @@
 **Application** for a **LEGO robot** to implement a **2D-plotter**. The plotter is able to draw two different shapes (a rectangle and a sailing ship) in different sizes selectable via a user interface. 
 The software runs on a **LEGO NXT Intelligent Brick** using the **LeJOS firmware version 0.9.1 beta**.
 
+![alt text](https://github.com/Hussien-Saleh/LEGO-Robot-2D-plotter/blob/master/lego-robot.png)
+
 **The general procedure is as follows:**
 - The user chooses one of the two predefined shapes and selects the size of the shape. 
 - The robot is placed on a provided coordinate grid, and after a calibration phase, the robot starts drawing at a predefined position and with the size selected by the user.
